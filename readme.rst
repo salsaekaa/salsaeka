@@ -69,3 +69,14 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+Nama: Salsa Eka Aprilia Putri
+NIM: 1223150054
+Kwlas: SI 23 P SIM
+
+# login
+admin: admin123
+salsaeka: 12345
+pinaya: 12345
+caca: 12345
+nisa: 12345
