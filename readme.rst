@@ -72,7 +72,7 @@ contributors to the CodeIgniter project and you, the CodeIgniter user.
 
 Nama: Salsa Eka Aprilia Putri
 NIM: 1223150054
-Kwlas: SI 23 P SIM
+Kelas: SI 23 P SIM
 
 # login
 admin: admin123
